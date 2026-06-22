@@ -158,7 +158,7 @@
         "tabla_tun/Tun09.wav",
         "tabla_tun/Tun10.wav"
     ],
-    "harmonium": [
+    "harmonium": 
         {
             "c2": "harmonium/36_harmonium-c2.wav",
             "c#2": "harmonium/37_harmonium-c#2.wav",
@@ -200,5 +200,4 @@
             "c#5": "harmonium/73_harmonium-c#5.wav",
             "d5": "harmonium/74_harmonium-d5.wav"
         }
-    ]
 }
